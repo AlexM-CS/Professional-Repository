@@ -1,0 +1,4 @@
+Version 2.2
+Archive 1
+Live 0
+Filepath Wordle_Bot_Folder/Wordle_Bots/wordleSolver_v2.2.py

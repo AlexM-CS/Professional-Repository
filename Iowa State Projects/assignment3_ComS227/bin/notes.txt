@@ -1,0 +1,14 @@
+These are some notes I have written in order to help myself along as I complete this assignment.
+
+----- Mar. 18 2024 -----
+The call to construct a new lizard (Lizard()) requires no arguments to be given in the constructor,
+as seen in the SimpleTests class.
+
+Cell(int col, int row) creates a new cell with the given coordinates.
+It is important to remember that the indices for each cell begin at 1, not at 0.
+(As seen in the Cell class)
+
+BodySegment(Lizard lizard, Cell cell) turns the given cell into a new lizard segment.
+
+ArrayList<BodySegment> is an array that contains cells, each of which contains the coordinates
+for a given body segment of a lizard, as well as the lizard that it belongs to.
