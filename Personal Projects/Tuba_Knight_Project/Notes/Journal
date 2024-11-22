@@ -1,0 +1,48 @@
+Created: 11-20-2024
+Last updated: 11-20-2024
+===================================================================================================
+11-20-2024
+Today is the day I started working on Tuba Knight. First of all, I'd
+love to give a thank you to Brayden (aka GDcheerios) for inspiring me to
+make this, as I was really compelled by his "Gentry's Quest" project to
+make something of the same caliber. Really impressive stuff, and it's alot
+of fun.
+
+This project takes inspiration from a couple of different things in
+regards to its gameplay.
+First, obviously, the "Tuba Knight" is a reference to the meme rabbit hole
+you can find all over YouTube. Generally, this meme involves people making
+boss/character themes for a game called Tuba Knight that doesn't actually exist.
+It's a pretty good bit in my opinion, although I'm far from the first person to
+have the idea of actually making it into a game, and even though this project isn't
+as impressive as some attempts I've seen for this idea, I just want to make something
+I'm personally proud of. Additionally, if I end up somehow attaching music to this
+project in the future, it will likely be inspired by these memes.
+
+Second, I'd like to make it similar in gameplay to "West of Loathing" by Asymmetric
+Publications. The game is extremely funny, creative, and fun. Overall, I'd say it's a
+masterclass on how to make a player care about the world of a game. From the ability
+to personalize your character, horse, pardner, gear, and even the decisions you make,
+every playthrough feels special, different, and even playing the game dozens of times
+isn't enough to discover all it has to offer. Because I plan on making this an ongoing
+project, I'm going to implement all the underlying systems first, and then slowly expand
+the world more and more, until I feel like it is complete.
+
+Finally, the gameplay is meant to feel like a JRPG (Japanese Role-Playing Game), which
+from my experience means an RPG involving stats and equipment, turn-based combat, leveling,
+party members, and much more. Even though this is the first thing I'm writing for this
+project, I'll probably end up making a "research" file or something along those lines
+where I document all my exact sources of inspiration after doing a bit of research, and I'll
+go more in depth there on what elements of gameplay I'll be using.
+===================================================================================================
+11-21-2024
+While I tried to jump straight into development yesterday, I quickly discovered I needed to
+do a bit more research and make a clear strategy on how I wanted to create this project.
+
+To accomplish this, I mostly took the day off of writing code and put my time towards planning
+this project out, at least in my head. Not really a "plan," so much as the order to build this
+project in. Helping me out in this ordering was Brayden, the one who inspired me to make
+this in the first place. I took some time to study Gentry's Quest, as it is completely open source.
+The link to Brayden's GitHub, and thus the source code for Gentry's Quest, is in the sources file.
+===================================================================================================
+11-22-2024
